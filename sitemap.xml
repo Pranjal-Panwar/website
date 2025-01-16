@@ -6,7 +6,18 @@
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 <!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
 
-
+<url>
+  <loc>http://pranjal-panwar.github.io/./assets/images/AC2MP 2024 Poster (1).pdf</loc>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://pranjal-panwar.github.io/./assets/images/Pranjal CV.pdf</loc>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc></loc>
+  <changefreq>monthly</changefreq>
+</url>
 <url>
   <loc>https://pranjal-panwar.github.io/website/</loc>
   <lastmod>2025-01-16T11:54:29+00:00</lastmod>
